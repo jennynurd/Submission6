@@ -31,6 +31,7 @@
                 <tr>
                     <td colspan="2">
                         <button type="submit"class="btn btn-success" >Save</button>
+                        <a class="btn btn-primary" href="/books/index">  Back </a>
                     </td>
                 </tr>
             </table>
